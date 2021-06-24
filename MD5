@@ -1,13 +1,13 @@
-f2dd18e819305355bf7294ad4f3a53c0 *DESCRIPTION
+3e00d778cc239fe5383ac96fd136cf2f *DESCRIPTION
 66c0aade0384683e1206e6cb6622c33b *NAMESPACE
-72e5d088615e5388343d28f5e0296a2a *NEWS.md
-f8bdfe5ff73b666d7b343ddc8a2f52f4 *R/char2seed.R
+32b09b0c75cbf8553de3baa11f6ed3ba *NEWS.md
+38c1e805164dea39b42c9ece81a18e0c *R/char2seed.R
 e56d5f16a98dae183839626df6f0d9e4 *R/codename.R
 935461a73f78b151a932d3b1e3df9165 *R/codename_message.R
 bff942f9435edb8eafd1e19b4c1eaec8 *R/data.R
 4a30aef3a46ac37897525fd65da5a025 *R/variety_pack.R
 7d2bdfc0db8d03a80f3002946549f7ec *R/zzz.R
-4909fcda689eedf188f6097551223be6 *README.md
+a037d8cf4ed079f26a7473531c46a7a4 *README.md
 7976a074d94d52b7aabb75104c2037ed *data/adjectives.rda
 fdd0fe08530fa9117e7d4145badb4462 *data/animals.rda
 e23c81833c03145a46cb8c234753dbb7 *data/gods.rda
@@ -17,7 +17,7 @@ f0a8d41b090228c62f662992c744d85d *data/wu_nouns.rda
 320bb2bb4076231ef76acd71e9897c17 *data/xkcd_colors.rda
 d4b1fff418d00207c838ccb1e9ec8c7e *man/adjectives.Rd
 1143d48070b373236fb3491fd24d952c *man/animals.Rd
-d4d7bfc4cbc32e9cbd85b17e8ce814a8 *man/char2seed.Rd
+2b5f824c2aca237e888c775c4f16baab *man/char2seed.Rd
 5ec08a6a1928a47ce876a93a0e51cf63 *man/codename.Rd
 2d68522af156a53efcffce6fb3ed5028 *man/codename_message.Rd
 49fbd00c959832b472f25e27cf4a61b1 *man/gods.Rd
